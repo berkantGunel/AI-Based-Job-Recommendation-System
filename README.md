@@ -190,3 +190,5 @@ AI-Powered Job Recommendations/
 - No semantic understanding of skill relationships
 - Limited to predefined location and experience level values
 - Does not account for user preferences beyond skills, location, and experience
+
+Kaggle Dataset:https://www.kaggle.com/datasets/samayashar/ai-powered-job-recommendations
